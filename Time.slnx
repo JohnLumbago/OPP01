@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Time.Backend/Timer.Backend.csproj" Id="bdb8944a-1dfe-4381-8a19-0762f3661154" />
+  <Project Path="Time.Frontend/Timer.Frontend.csproj" Id="6a885553-df09-4232-a3be-57285135d761" />
+</Solution>
